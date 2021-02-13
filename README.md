@@ -1,2 +1,2 @@
 # todo-list
-To Do list applicating
+To Do list application
